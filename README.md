@@ -1,6 +1,6 @@
-# Define repoistory name
+# Visualizing Annuity Income
 
-Define description.
+Enabling annuity income to be reflected next to other sources of income for clients where financial professionals are currently showing their income.
 
 Please refer to the [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the code of conduct.
 
